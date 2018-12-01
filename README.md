@@ -33,7 +33,7 @@ recage: retorna um valor dentro de uma função ou força o abandono da mesma.
 
 }: final de delimitador de bloco;
 
-#OPERADORES:
+# OPERADORES:
 
 + : soma;
 
