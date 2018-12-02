@@ -80,10 +80,6 @@ public interface LCageConstants {
   int IDENTIFICADOR = 38;
   /** RegularExpression Id. */
   int TOKEN_NUMLIT = 39;
-  /** RegularExpression Id. */
-  int ID_INVALIDO = 40;
-  /** RegularExpression Id. */
-  int INVALIDO_LEXICO = 41;
 
   /** Lexical state. */
   int DEFAULT = 0;
@@ -130,8 +126,6 @@ public interface LCageConstants {
     "<EXPOP>",
     "<IDENTIFICADOR>",
     "<TOKEN_NUMLIT>",
-    "<ID_INVALIDO>",
-    "<INVALIDO_LEXICO>",
   };
 
 }
